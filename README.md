@@ -40,8 +40,6 @@ This project addresses these challenges through structured data analysis and int
 
 ## 📈 Dashboard Highlights
 
-## 📈 Dashboard Highlights
-
 ### 🔹 Power BI Dashboard
 ![Power BI Dashboard](powerbi.jpg)
 
