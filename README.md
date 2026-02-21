@@ -43,13 +43,13 @@ This project addresses these challenges through structured data analysis and int
 ## 📈 Dashboard Highlights
 
 ### 🔹 Power BI Dashboard
-![Power BI Dashboard](power dash.jpg)
+![Power BI Dashboard](powerbi.jpg)
 
 ### 🔹 Tableau Dashboard
-![Tableau Dashboard](tab dash(2).jpg)
+![Tableau Dashboard](tableau.jpg)
 
 ### 🔹 Excel Dashboard
-![Excel Dashboard](excel dash.jpg)
+![Excel Dashboard](excel.jpg)
 
 ---
 
